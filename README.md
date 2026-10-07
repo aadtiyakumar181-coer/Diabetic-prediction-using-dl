@@ -1,2 +1,1 @@
-# Diabetic-prediction-using-dl
-Dibble
+# Diabetic-prediction-using-deep-learning
